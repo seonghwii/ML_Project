@@ -80,10 +80,3 @@ pred_y = model(new_var) # model.forward(new_var)
 f = open("result.txt", "w")
 # f.write(f'{str(pred_y)}\n')
 f.close()
-
-
-
-
-
-
-
